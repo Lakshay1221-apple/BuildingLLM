@@ -7,7 +7,9 @@ authors = [
     { name = "Lakshay Raj", email = "212574774+Lakshay1221-apple@users.noreply.github.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "tiktoken>=0.14.0",
+]
 
 [project.scripts]
 buildinglargelanguagemodel = "buildinglargelanguagemodel:main"
