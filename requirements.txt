@@ -1,0 +1,11 @@
+torch
+numpy
+pandas
+matplotlib
+tiktoken
+jupyter
+jupyterlab
+tqdm
+urllib3
+requests
+scikit-learn
