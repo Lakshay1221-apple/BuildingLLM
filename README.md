@@ -164,7 +164,7 @@ BuildingLargeLanguageModel/
 
 ## ⚙️ GPT-2 Architecture Specifications
 
-The model follows the architecture of **GPT-2 Small (124M)**:
+The model follows the architecture of **GPT-2 Small (163M)**:
 
 | Hyperparameter | Configuration Value | Description |
 | :--- | :--- | :--- |
