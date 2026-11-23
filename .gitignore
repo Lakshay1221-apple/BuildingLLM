@@ -10,3 +10,4 @@ wheels/
 .venv
 data/
 3M_Model/
+instruction_model/
